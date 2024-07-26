@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="instance_level_glide_encrypter">401fa53c5b6220106cdba88ddc81c754</crypto_module>
+        <crypto_spec display_value="instance_level_glide_encrypter --- Symmetric Key Wrapping/Unwrapping">9e1f293c5b6220106cdba88ddc81c797</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>3b3452a4db7a319005ef172913961968</owner>
+        <policy_name>AutoGen-scope-x_249644_event_tra-instance_level_glide_encrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 12:59:55</sys_created_on>
+        <sys_id>6f20dc4b47230210a5d257f1d16d4374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="event-tracker" source="x_249644_event_tra">7e6fc80b47230210a5d257f1d16d431a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="event-tracker">7e6fc80b47230210a5d257f1d16d431a</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_6f20dc4b47230210a5d257f1d16d4374</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 12:59:55</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="event-tracker">7e6fc80b47230210a5d257f1d16d431a</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
